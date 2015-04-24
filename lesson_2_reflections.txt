@@ -4,3 +4,6 @@ a hidden folder was created to store metadata. why? guess to keep track of chang
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is maybe a buffer, to let team logically organize the changes to be committed
+
+How can you use the staging area to make sure you have one commit per logical change?
+just to make sure only git add the changes that belongs to one logicical change
