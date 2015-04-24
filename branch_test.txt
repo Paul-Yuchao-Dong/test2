@@ -1,0 +1,2 @@
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+testing out new features based on a stable version; chaning only one part of the program
