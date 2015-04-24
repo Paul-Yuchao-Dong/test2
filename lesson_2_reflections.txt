@@ -5,10 +5,14 @@ a hidden folder was created to store metadata. why? guess to keep track of chang
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is maybe a buffer, to let team logically organize the changes to be committed
 
-<<<<<<< HEAD
 How can you use the staging area to make sure you have one commit per logical change?
 just to make sure only git add the changes that belongs to one logicical change
-=======
+
 How do the diagrams help you visualize the branch structure?
 that is pretty much what the diagram do...
->>>>>>> easier
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+not perfect but in effect combining all changes, the diagram made it easy to see the parent and separate out the logic
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automation saves lives, period.
